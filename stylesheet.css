@@ -8,3 +8,9 @@ h4 {
 .container {
 	background-color:red;
 }
+
+body {
+	background-color:purple;
+	background-image:url("images/watermelon.png");
+	background-size:cover;
+}
