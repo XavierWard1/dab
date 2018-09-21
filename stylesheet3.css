@@ -2,5 +2,13 @@ h2 {
 	color:red;
 }
 .container {
-	background-color:#33ccff;
+	
+}
+
+body {
+	background-image:url("images/shark.jpg");
+	background-color:green;
+}
+p {
+	color:red;
 }

@@ -1,6 +1,10 @@
 h1 {
 	color:blue;
 }
-.container {
+h2 {
+	color:red;
+}
+body {
+	background-image:url("images/tit.png");
 	background-color:pink;
 }

@@ -6,11 +6,15 @@ h4 {
 	color:yellow;
 }
 .container {
-	background-color:red;
+	background-color:;
 }
 
 body {
 	background-color:purple;
 	background-image:url("images/watermelon.png");
-	background-size:cover;
+	background-size:;
+}
+
+.main {
+	
 }
