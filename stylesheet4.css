@@ -1,9 +1,11 @@
 body {
 	background-image:url("images/HAGRID.jpg");
 	background-color:yellow;
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 	
 }
 
 .aaa {
 	position:center;
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 }

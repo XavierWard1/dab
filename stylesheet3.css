@@ -1,5 +1,6 @@
 h2 {
 	color:red;
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .container {
 	
@@ -8,7 +9,9 @@ h2 {
 body {
 	background-image:url("images/shark.jpg");
 	background-color:green;
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 }
 p {
 	color:red;
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 }
