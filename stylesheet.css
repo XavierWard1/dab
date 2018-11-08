@@ -22,3 +22,7 @@ body {
 .main {
 		
 }
+
+html {
+  scroll-behavior: smooth;
+}
